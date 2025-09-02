@@ -1,4 +1,4 @@
-public class BinaryTreeRevise {
+public class Lecture-1 {
     public static void main(String[] args) {
         String [] array = {"Leia", "Boba", "Darth", "R2D2", "Han", "Luke", "Chewy", "Jabba"};
 //        Integer [] array = {1,2,3,4,5,6,7,8};
@@ -101,4 +101,5 @@ class BinaryNode <T> {
         this.right = null;
     }
 }
+
 
